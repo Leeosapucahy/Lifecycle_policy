@@ -4,6 +4,7 @@
         
        - Fazendo isso de forma automatizada a cada 90 dias (você pode mudar o tempo dessa lifecycle no código).
   
+  
   - O script importa a biblioteca boto3 do python para realizar a execução dentro da AWS.
         
        - O boto é responsável pela conexão do nosso código com os itens da AWS.  
@@ -16,6 +17,7 @@
         
        - Você pode se conectar na sua máquina SSH através do remote explorer, extensão do VSCode.
        - Executar um arquivo dentro da AWS tem suas vantagens, a facilitação em relação as keys, que não precisam ser utilizadas nesse caso.
+        
         
    - O arquivo vai listar o nome dos repositórios ECR contentes na sua conta AWS, e logo após vai aplicar a lifecycle sob os mesmos.
         
