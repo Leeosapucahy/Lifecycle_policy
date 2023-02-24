@@ -21,6 +21,6 @@
         
    - O arquivo vai listar o nome dos repositórios ECR contentes na sua conta AWS, e logo após vai aplicar a lifecycle sob os mesmos.
    
-   - Espero que ajude! (;
+    - Espero que ajude! (;
         
   
