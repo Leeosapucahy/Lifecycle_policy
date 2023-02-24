@@ -7,7 +7,7 @@
   - O script importa a biblioteca boto3 do python para realizar a execução dentro da AWS.
         
        - O boto é responsável pela conexão do nosso código com os itens da AWS.  
-       - No link acima você encontra a documentação da biblioteca boto.
+       - No link abaixo você encontra a documentação da biblioteca boto.
          
         - https://boto3.amazonaws.com/v1/documentation/api/latest/guide/sqs.html
       
