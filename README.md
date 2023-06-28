@@ -13,7 +13,7 @@
         - https://boto3.amazonaws.com/v1/documentation/api/latest/guide/sqs.html
       
   
-  - Esse arquivo não contém inserção de keys AWS pois foi realizado e validado dentro de uma máquina AWS com SHH.
+  - Esse arquivo não contém inserção de keys AWS pois foi realizado e validado dentro de uma máquina AWS com SSH.
         
        - Você pode se conectar na sua máquina SSH através do remote explorer, extensão do VSCode.
        - Executar um arquivo dentro da AWS tem suas vantagens, a facilitação em relação as keys, que não precisam ser utilizadas nesse caso.
